@@ -69,6 +69,7 @@
   "settings-requires-restart": "Vyžaduje reštart",
 
   "settings-option-keep-sidebar-open": "Ponechať bočné menu otvorené",
+  "settings-option-static-album-art": "Vo vizualizácii ponechať obrázok albumu statický",
 
   "settings-option-invert-tray-icon": "Invertovať farbu ikony v paneli",
 
@@ -89,6 +90,7 @@
   "settings-option-enable-taskbar-progress": "Zobraziť priebeh skladby na panely úloh",
   "settings-option-enable-win10-media-service": "Povoliť Windows 10 System Media Service",
   "settings-option-enable-win10-media-service-details": "Zobrazí aktuálnu skladbu na uzamknutej obrazovke",
+  "settings-option-enable-win10-media-service-track-info": "",
   "settings-option-change-locale": "Vybrať jazyk",
 
   "settings-option-hotkey-explanation": "Predvolené mediálne klávesy budú stále fungovať bez ohľadu na tieto nastavenia.  Tieto nastavenia sú ako doplnok k predvoleným.",
